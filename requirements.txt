@@ -10,4 +10,32 @@ faiss-cpu
 streamlit
 pypdf
 ipykernel
+# Core libraries
+langchain==0.1.20
+langchain-community==0.0.32
+langchain-groq==0.0.3
+
+# Embeddings
+sentence-transformers==2.2.2
+
+# Vector store
+faiss-cpu==1.7.4
+
+# LLM & HuggingFace utils
+transformers==4.41.1
+huggingface-hub==0.23.0
+
+# PDF loading
+pypdf==3.17.4
+
+# User Interface
+streamlit==1.35.0
+
+# Environment variable
+python-dotenv==1.0.1
+
+# Jupyter notebook (if used)
+notebook==7.2.0
+ipykernel==6.29.4
+
 
