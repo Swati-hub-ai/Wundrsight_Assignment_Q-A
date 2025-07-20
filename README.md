@@ -37,7 +37,7 @@ This project was developed as part of the Wundrsight Software Engineering Intern
 project/
 ├── data/                          # Input folder for medical PDFs (e.g., ICD/DSM)
 ├── rag_qa_assignment_pdf.ipynb    # Assignment notebook with all core logic
-├── rag_qa_ui.py                   # Streamlit Q&A UI (non-chat mode)
+├── rag_qa.py                   # Simple Notebook flow
 ├── rag_qa_ui_chat.py              # Streamlit Conversational Chatbot UI
 ├── sample_output.txt              # Required output for two mandatory questions
 ├── README.md                      # Assignment documentation
