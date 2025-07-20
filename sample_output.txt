@@ -1,0 +1,15 @@
+🔎 Query: Give me the correct coded classification for the following diagnosis: Recurrent depressive disorder, currently in remission
+✅ Answer: F33.4  
+
+📌 Context Snippets:
+- Chunk 1: MENTAL AND BEHAVIOURAL DISORDERS F33.4 Recurrent depressive disorder, currently in remission Diagnostic guidelines For a definite diagnosis: 
+- Chunk 2: recurrent depressive disorder (F33.-). These grades of severity are specified to cover a wide range of clinical states 
+- Chunk 3: .10 Recurrent brief depressive disorder F38.8 Other specified mood [affective] disorders F39 Unspecified mood [affective] disorder 
+
+🔎 Query: What are the diagnostic criteria for Obsessive-Compulsive Disorder (OCD)?
+✅ Answer: For a definite diagnosis, obsessional symptoms or compulsive acts, or both, must be present on most days for at least 2 successive  
+
+📌 Context Snippets:
+- Chunk 1: underlying personality. Onset is usually in childhood or early adult life. The course is variable and more likely to be chronic in the absence of sign
+- Chunk 2: obsessive - compulsive neurosis Differential diagnosis. Differentiating between obsessive - compulsive disorder and a depressive disorder 
+- Chunk 3: The commonest examples are obsessive - compulsive disorder (F42.-),  dissociative disorders (F44.-), somatization disorder (F45.0)
